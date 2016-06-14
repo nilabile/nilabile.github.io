@@ -1,5 +1,5 @@
 ﻿$(document).ready(function(){
-alert($(location).attr('href'));
+/*alert($(location).attr('href'));*/
         $.ajax({
             type: "GET",
             url: "./data/menu.xml",

@@ -1,4 +1,9 @@
-﻿.darkorange
+﻿html, body, .container-fluid
+{
+	height:100%
+}
+
+.darkorange
 {
 	background-color:#d27702;
 	color:#fff;

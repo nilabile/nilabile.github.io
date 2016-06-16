@@ -3,6 +3,6 @@
         <Menu id="welkom" text="Welkom" url="./index.html"></Menu>
         <Menu id="dirigente" text="Dirigente" url="./dirigent.html"></Menu>
         <Menu id="repertoire" text="Repertoire" url="./repertoire.html"></Menu>
-        <!--<Menu id="praktisch" text="Praktisch" url="./praktisch.html"></Menu>-->
+        <Menu id="praktisch" text="Praktisch" url="./praktisch.html"></Menu>
         <Menu id="contact" text="Contact" url="./contact.html"></Menu>
     </MenuRoot>

@@ -3,6 +3,11 @@
 	height:100%
 }
 
+#menu_wrapper
+{
+	height:50px;
+}
+
 .menu
 {
 	background-color:#ba2722;
@@ -45,9 +50,14 @@
 	background-image:url('../img/header3.jpg')
 }
 
-.header-title-container
+.header-title-container, .red
 {
 	background-color:#ff3c3c;
+	color:#fff;
+}
+
+.header-title-container
+{
 	min-width:300px;
 	height:300px;
 }

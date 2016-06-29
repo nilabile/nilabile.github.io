@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-    <MenuRoot>
-        <Menu id="welkom" text="Welkom" url="./index.html"></Menu>
-        <Menu id="team" text="Team" url="./team.html"></Menu>
-        <Menu id="repertoire" text="Repertoire" url="./repertoire.html"></Menu>
-        <Menu id="praktisch" text="Praktisch" url="./praktisch.html"></Menu>
-        <Menu id="contact" text="Contact" url="./contact.html"></Menu>
-    </MenuRoot>
+<MenuRoot>
+  <Menu id="welkom" text="Welkom" url="./index.html"></Menu>
+  <Menu id="team" text="Team" url="./team.html"></Menu>
+  <Menu id="repertoire" text="Repertoire" url="./repertoire.html"></Menu>
+  <Menu id="praktisch" text="Praktisch" url="./praktisch.html"></Menu>
+  <Menu id="contact" text="Contact" url="./contact.html"></Menu>
+</MenuRoot>
